@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: OckeTheKid
+owner: ockethekid
+package: .
